@@ -26,10 +26,18 @@
         z-index: 1;
     }
 
-    a {
+    a:not(.button > a) {
+        box-shadow: inset 0 0 0 0 var(--primary-green);
         color: white;
+        margin: 0 -.25rem;
+        padding: 0 .25rem;
+        transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
         text-decoration: none;
         font-weight: bold;
+    }
+    a:not(.button > a):hover {
+        box-shadow: inset 100px 0 0 0 var(--primary-green);
+        color: black;
     }
 
     h2 {
