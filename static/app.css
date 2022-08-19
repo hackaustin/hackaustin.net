@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Space%20Grotesk:wght@300..700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap');
+
+:root {
+    --primary-green: #37F17A;
+    --darker-green: #20964B;
+    --darkest-green: #154125;
+}
+
+
+* {
+    font-family: 'Space Grotesk', sans-serif;
+    letter-spacing: -0.035em;
+}
+
+body {
+    margin: 0;
+    scroll-behavior: smooth;
+}
+
+.primary-green {
+    color: var(--primary-green);
+}
+
+.darker-green {
+    color: var(--darker-green);
+}
+
+.darkest-green {
+    color: var(--darkest-green);
+}
+
+.bg-primary-green {
+    background-color: var(--primary-green);
+}
+
+.bg-darker-green {
+    background-color: var(--darker-green);
+}
+
+.bg-darkest-green {
+    background-color: var(--darkest-green);
+}
+
+.mono {
+    font-family: 'Space Mono', 'Space Grotesk', sans-serif;
+}
+
+.text-center {
+    text-align: center;
+}
