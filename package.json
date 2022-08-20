@@ -30,6 +30,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"lax.js": "^2.0.3"
+		"lax.js": "^2.0.3",
+		"@kingshott/iodine": "^8.3.0"
 	}
 }
