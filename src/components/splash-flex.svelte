@@ -48,7 +48,7 @@
 </div>
 
 <style>
-    h2 {
+        h2 {
             margin-top: 0; 
             margin-bottom: 0;
             font-size: 10vmin;
@@ -141,4 +141,10 @@
             top: 10px;
             fill: white;
         }
+    
+        a {
+            text-decoration: none;
+        }
+    
+    
 </style>
