@@ -6,7 +6,7 @@ import Flex from "./splash-flex.svelte"
 <main>
     <div class="wrapper">
         <h2>Join us and</h2>
-        <h1 class="mono">HACK AUSTIN!</h1>
+        <h1 class="mono">HACK<span class="space"></space>AUSTIN!</h1>
         <div class="grid-container"><Grid/></div>
         <div class="flex-container"><Flex/></div>
    </div>
@@ -39,6 +39,10 @@ import Flex from "./splash-flex.svelte"
 
     .flex-container {
         display: none;
+    }
+    
+    .space {
+        width: 5vmin;
     }
 
     @media (max-width: 850px) {
