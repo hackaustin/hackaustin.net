@@ -17,5 +17,14 @@
 
     h1 {
         font-size: 8vmin;
+        
     }
+    
+    @media (max-width: 600px) {
+        
+        br {
+           display: none;   
+        }
+    }
+    
 </style>
