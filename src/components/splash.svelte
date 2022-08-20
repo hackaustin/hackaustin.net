@@ -6,7 +6,7 @@ import Flex from "./splash-flex.svelte"
 <main>
     <div class="wrapper">
         <h2>Join us and</h2>
-        <h1 class="mono">HACK<span class="space"></space>AUSTIN!</h1>
+        <h1 class="mono">HACK<span class="space"></span>AUSTIN!</h1>
         <div class="grid-container"><Grid/></div>
         <div class="flex-container"><Flex/></div>
    </div>
