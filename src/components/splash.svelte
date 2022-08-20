@@ -43,6 +43,7 @@ import Flex from "./splash-flex.svelte"
     
     .space {
         width: 5vmin;
+        display: inline-block;
     }
 
     @media (max-width: 850px) {
