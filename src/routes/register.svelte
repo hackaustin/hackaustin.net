@@ -81,6 +81,12 @@
 		font-weight: bold;
 	}
 	
+	@media (prefers-color-scheme: dark) {
+		div > h1 {
+			color: black;
+		}
+	}
+	
 	div {
 		background-color: var(--accent);
 		width: 100%;
