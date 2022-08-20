@@ -13,7 +13,7 @@
   <!-- Google / Search Engine Tags -->
   <meta itemprop="name" content="Hack Austin!">
   <meta itemprop="description" content="Hack Austin is a nonprofit hackathon for Austin high-schoolers to learn to code and build projects they're proud of. The venue is TBD, and will be held on October 15th from 10AM-8PM. Register today!">
-  <meta itemprop="image" content="$lib/assets/meta.png">
+  <meta itemprop="image" content="/meta.png">
 
   <!-- Facebook Meta Tags -->
   <meta property="og:url" content="https://hackaustin.net">
