@@ -20,13 +20,13 @@
   <meta property="og:type" content="website">
   <meta property="og:title" content="Hack Austin!">
   <meta property="og:description" content="Hack Austin is a nonprofit hackathon for Austin high-schoolers to learn to code and build projects they're proud of. The venue is TBD, and will be held on October 15th from 10AM-8PM. Register today!">
-  <meta property="og:image" content="$lib/assets/meta.png">
+  <meta property="og:image" content="/meta.png">
 
   <!-- Twitter Meta Tags -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Hack Austin!">
   <meta name="twitter:description" content="Hack Austin is a nonprofit hackathon for Austin high-schoolers to learn to code and build projects they're proud of. The venue is TBD, and will be held on October 15th from 10AM-8PM. Register today!">
-  <meta name="twitter:image" content="$lib/assets/meta.png">
+  <meta name="twitter:image" content="/meta.png">
 </svelte:head>
 
 <Nav/>
