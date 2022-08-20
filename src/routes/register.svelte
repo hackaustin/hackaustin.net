@@ -83,7 +83,7 @@
 	
 	@media (prefers-color-scheme: dark) {
 		div > h1 {
-			color: black;
+			color: #212121 !important
 		}
 	}
 	
