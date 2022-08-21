@@ -58,7 +58,7 @@
 	</h1>
 </div>
 
-<form action="https://formspree.io/f/moqbqbab" method="POST" on:submit={submitHandler}>
+<form netlify on:submit={submitHandler}>
 			<label for="name">Name:</label>
 			<input name="Name" id="name" type="text">
 			
