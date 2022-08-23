@@ -18,7 +18,7 @@
         width: 100vw;
         top: 0;
         padding:0.5rem;
-        padding-right: 1rem;
+        padding-right: 2rem;
         box-sizing: border-box; 
         line-height: 2rem;
         color: white;
