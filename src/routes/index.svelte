@@ -32,3 +32,7 @@
 <Nav/>
 <Hero/>
 <Splash/>
+
+<footer>
+    <h2>For questions, concerns, etc., or just to talk coding contact team@hackaustin.net ! </h2>
+</footer>
