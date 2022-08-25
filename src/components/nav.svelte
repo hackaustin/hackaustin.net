@@ -1,8 +1,6 @@
 <nav>
     <h2 class="mono primary-green">HACK<span class="space"></span>AUSTIN!</h2>
     <div class="button-box">
-        <a href="#about">About</a>
-        <a href="#faq">FAQ</a>
         <span class="button"><a href="/register">Register!</a></span>
     </div>
     
@@ -24,23 +22,6 @@
         color: white;
         align-items: center;
         z-index: 1;
-    }
-    
-     a {
-        color: white;
-        text-decoration: none;
-        font-weight: bold;
-    }
-
-    a:not(.button > a) {
-        box-shadow: inset 0 0 0 0 var(--primary-green);
-        margin: 0 -.25rem;
-        padding: 0 .25rem;
-        transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
-    }
-    a:not(.button > a):hover {
-        box-shadow: inset 100px 0 0 0 var(--primary-green);
-        color: black;
     }
 
     h2 {
