@@ -18,7 +18,7 @@
       transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
   }
   a:not(.button > a):hover {
-      box-shadow: inset 100px 0 0 0 var(--primary-green);
+      box-shadow: inset 300px 0 0 0 var(--primary-green);
       color: black;
   }
 </style>
