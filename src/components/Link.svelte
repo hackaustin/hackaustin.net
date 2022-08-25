@@ -9,6 +9,8 @@
     color: white;
     text-decoration: none;
     font-weight: bold;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
   }
 
   a:not(.button > a) {
