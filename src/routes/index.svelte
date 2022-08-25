@@ -34,5 +34,20 @@
 <Splash/>
 
 <footer>
-    <h2>For questions, concerns, etc., or just to talk coding contact team@hackaustin.net ! </h2>
+    <h2>For questions, concerns, etc. , or just to talk coding, contact team@hackaustin.net ! </h2>
 </footer>
+
+<style>
+    footer {
+        display: flex;
+        background-color: black;
+        justify-content: center;
+        color: white;
+    }
+    
+    footer > h2 {
+        text-align: center;
+    }
+    
+    
+</style>
