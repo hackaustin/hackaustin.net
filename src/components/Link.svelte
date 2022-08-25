@@ -16,7 +16,7 @@
   a:not(.button > a) {
       box-shadow: inset 0 0 0 0 var(--primary-green);
       margin: 0 -.25rem;
-      padding: 0 .25rem;
+      padding: 0 .3rem;
       transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
   }
   a:not(.button > a):hover {
