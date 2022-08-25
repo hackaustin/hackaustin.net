@@ -23,6 +23,11 @@
         align-items: center;
         z-index: 1;
     }
+    
+    a {
+        text-decoration: none;
+        font-weight: 700;
+    }
 
     h2 {
         margin: 0;
