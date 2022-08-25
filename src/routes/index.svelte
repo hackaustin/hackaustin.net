@@ -3,6 +3,7 @@
     import Splash from "../components/splash.svelte";
     import Nav from "../components/nav.svelte";
     import About from "../components/about.svelte"
+    import Link from "../components/Link.svelte";
 </script>
 
 <svelte:head>
@@ -34,7 +35,7 @@
 <Splash/>
 
 <footer>
-    <h2>For questions, concerns, etc. , or just to talk coding, contact team@hackaustin.net ! </h2>
+    <h2>For questions, concerns, etc. , or just to talk coding, contact <Link target="mailto://team@hackaustin.net">team@hackaustin.net</Link>! </h2>
 </footer>
 
 <style>
