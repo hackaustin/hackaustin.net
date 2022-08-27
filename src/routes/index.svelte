@@ -100,6 +100,7 @@
         justify-content: center;
         align-items: center;
         color: white;
+        flex-direction: column;
     }
     
     footer > h2 {
