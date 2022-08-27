@@ -37,7 +37,7 @@
 <footer>
     <div>
         <h2>Graciously supported by:</h2>
-        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 660 225" style="width: 200px;" xml:space="preserve">
+        <a href="https://stickermule.com"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 660 225" style="width: 200px;" xml:space="preserve">
             <style type="text/css">
                 .Arched_x0020_Green{fill:url(#SVGID_1_);stroke:#FFFFFF;stroke-width:0.25;stroke-miterlimit:1;}
                 .st0{fill:#FFFFFF;}
@@ -65,7 +65,8 @@
                 </g>
             </g>
         </svg>
-        <svg xmlns="http://www.w3.org/2000/svg" width="256" height="64" fill="none" viewBox="0 0 256 64" style="
+        </a>
+        <a href="https://bank.hackclub.com/hackaustin"><svg xmlns="http://www.w3.org/2000/svg" width="256" height="64" fill="none" viewBox="0 0 256 64" style="
         width: 150px;
         height: max-content;
         ">
@@ -85,7 +86,7 @@
                     <rect width="256" height="64" fill="#fff"></rect>
                 </clipPath>
             </defs>
-        </svg>   
+        </svg></a>
     </div>
     
     
