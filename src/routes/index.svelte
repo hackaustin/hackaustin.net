@@ -89,7 +89,7 @@
     </div>
     
     
-    <h2>For questions, concerns, or just to talk coding, contact <Link target="mailto://team@hackaustin.net">team@hackaustin.net</Link>! </h2>
+    <h2 style="display: block">For questions, concerns, or just to talk coding, contact <Link target="mailto://team@hackaustin.net">team@hackaustin.net</Link>! </h2>
 
 </footer>
 
