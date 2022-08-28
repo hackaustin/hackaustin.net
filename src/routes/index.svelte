@@ -102,10 +102,13 @@
         align-items: center;
         color: white;
         flex-direction: column;
+        flex-wrap: wrap;
+        padding-left: 2rem;
     }
     
     footer > h2 {
         text-align: center;
+        padding-left: 1.25rem;
     }
     
     footer > div {
