@@ -1,7 +1,11 @@
+<script>
+    import Link from "../Link.svelte"
+</script>
+
 <nav>
     <h2 class="mono primary-green">HACK<span class="space"></span>AUSTIN!</h2>
     <div class="button-box">
-        <a href="https://bank.hackclub.com/donations/start/hackaustin">Donate</a>
+        <Link target="https://bank.hackclub.com/donations/start/hackaustin">Donate</Link>
         <span class="button"><a href="/register">Register!</a></span>
     </div>
     
