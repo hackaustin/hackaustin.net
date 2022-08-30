@@ -1,6 +1,7 @@
 <nav>
     <h2 class="mono primary-green">HACK<span class="space"></span>AUSTIN!</h2>
     <div class="button-box">
+        <a href="https://bank.hackclub.com/donations/start/hackaustin">Donate</a>
         <span class="button"><a href="/register">Register!</a></span>
     </div>
     
