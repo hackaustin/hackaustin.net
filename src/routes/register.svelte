@@ -58,7 +58,7 @@
 	</h1>
 </div>
 
-<form action="https://formspree.io/f/moqbqbab" method="POST" on:submit={submitHandler}>
+<form action="https://formspree.io/f/moqbqbab" method="POST" on:submit={submitHandler} id="form">
 			<label for="name">Name:</label>
 			<input name="Name" id="name" type="text">
 			
@@ -94,7 +94,7 @@
 			<input type="checkbox" id="workshops" name="Vaccination Status">
 	
 			<label for="dietary">Dietary Restrictions</label>
-			<textarea id="dietary" name="Dietary Restrictions"></textarea>
+			<textarea id="dietary" name="Dietary Restrictions" form="form"></textarea>
 	
 			
 			<input type="submit" value="Register!">	
