@@ -120,6 +120,7 @@
         display: flex;
         align-items: center;
         width: fit-content;
+        flex-wrap: wrap;
     }
     
     
