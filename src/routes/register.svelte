@@ -91,7 +91,7 @@
 			</select>
 			
 			<label for="workshops">Would you like to host a workshop?</label>
-			<input type="checkbox" id="workshops" name="Vaccination Status">
+			<input type="checkbox" id="workshops" name="Hosting a Workshop">
 	
 			<label for="dietary">Dietary Restrictions</label>
 			<textarea id="dietary" name="Dietary Restrictions" form="form"></textarea>
