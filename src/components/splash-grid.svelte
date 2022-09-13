@@ -11,7 +11,7 @@
                     <path d="M52.149 118.623C49.0936 115.568 49.0936 110.601 52.149 107.545L107.545 52.149C110.608 49.0858 115.568 49.0858 118.623 52.149C121.686 55.2043 121.686 60.1713 118.623 63.2267L63.2267 118.623C60.1713 121.686 55.2122 121.686 52.149 118.623Z" fill="black"/>
                     <path d="M90.9287 102.006L102.006 90.9287L129.708 118.623C132.764 121.686 132.764 126.645 129.708 129.708C126.645 132.764 121.686 132.764 118.631 129.708L90.9287 102.006Z" fill="black"/>
                 </svg>
-                <h2>dadaLab</h2>
+                <h2>dadaLab on Real St.</h2>
             </div>
             <div class="box">
                 <svg style="width: 6vmin; height: 6vmin; margin-right: 0.5rem;" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414" xmlns="http://www.w3.org/2000/svg" aria-label="clock" viewBox="0 0 32 32" preserveAspectRatio="xMidYMid meet" fill="currentColor" width="48" height="48" title="clock" class="svelte-fycqjc"><g><path fill-rule="evenodd" clip-rule="evenodd" d="M26 16c0 5.523-4.477 10-10 10S6 21.523 6 16 10.477 6 16 6s10 4.477 10 10zm2 0c0 6.627-5.373 12-12 12S4 22.627 4 16 9.373 4 16 4s12 5.373 12 12z"></path><path d="M15.64 17a1 1 0 0 1-1-1V9a1 1 0 0 1 2 0v7a1 1 0 0 1-1 1z"></path><path d="M21.702 19.502a1 1 0 0 1-1.366.366l-5.196-3a1 1 0 0 1 1-1.732l5.196 3a1 1 0 0 1 .366 1.366z"></path></g></svg>
