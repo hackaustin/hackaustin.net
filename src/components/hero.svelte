@@ -11,7 +11,8 @@
         justify-content: center;
         align-items: center;
         height:100vh;
-        background-color: black;
+        background: url('https://cloud-5ukt231zm-hack-club-bot.vercel.app/0hack_club_assemble_ltnj_00021_1.png'), black;
+        background-size: cover;
         color: white;
     }
 
