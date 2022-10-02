@@ -31,7 +31,7 @@
 			</div>
 			<div style="display: flex; align-items: center">
 				<img
-					src="https://cloud-pu1bzj4tf-hack-club-bot.vercel.app/0gems_innovation_week-2866_1.png"
+					src="/photo-2.jpg"
 					height="250px"
 					width="100%"
 					style="object-fit: cover; border-radius: 4px"
@@ -39,7 +39,7 @@
 			</div>
 			<div style="display: flex; align-items: center" class="m-hidden">
 				<img
-					src="https://cloud-pu1bzj4tf-hack-club-bot.vercel.app/1gems_innovation_week-2761_1.png"
+					src="/photo-3.jpg"
 					height="250px"
 					width="100%"
 					style="object-fit: cover; border-radius: 4px"
