@@ -13,7 +13,7 @@
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "next",
-		"@sveltejs/kit": "@sveltejs/kit@1.0.0",
+		"@sveltejs/kit": "^1.0.0-next.507",
 		"@typescript-eslint/eslint-plugin": "^5.27.0",
 		"@typescript-eslint/parser": "^5.27.0",
 		"eslint": "^8.16.0",
@@ -30,7 +30,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"lax.js": "^2.0.3",
-		"@kingshott/iodine": "^8.3.0"
+		"@kingshott/iodine": "^8.3.0",
+		"lax.js": "^2.0.3"
 	}
 }
