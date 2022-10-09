@@ -33,8 +33,8 @@
 
 <Nav/>
 <Hero/>
-<About />
 <Splash/>
+<About />
 <Further />
 
 
