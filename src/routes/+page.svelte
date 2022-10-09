@@ -42,6 +42,7 @@
 <footer>
     <div>
         <h2>HACK <br/>AUSTIN!</h2>
+        <p>team@hackaustin.net</p>
         <p>Fiscally sponsored by The Hack Foundation <br />
           Nonprofit EIN: 81-2908499</p>
     </div>
