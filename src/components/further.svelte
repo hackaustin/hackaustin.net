@@ -1,6 +1,11 @@
 <main id="about">
 	<div class="wrapper">
 		<h1><u>Frequently Asked Questions</u></h1>
+		<p class="lead">
+			Any other questions? <a href="mailto:team@hackaustin.net" class="primary-green"
+				>Send us a message →</a
+			>
+		</p>
 
 		<div class="grid">
 			<div class="box">
