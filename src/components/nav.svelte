@@ -10,7 +10,7 @@
         <h2 class="mono primary-green">HACK<span class="space"></span>AUSTIN!</h2>
         <div class="button-box">
             <Link target="https://bank.hackclub.com/donations/start/hackaustin">Donate</Link>
-            <span class="button disabled">Register!</span>
+            <span class="button"><a href="https://register.hackaustin.net" onclick="window.fathom.trackGoal('BJ9BT1ZU', 0);">Register!</span>
         </div>
 
 
