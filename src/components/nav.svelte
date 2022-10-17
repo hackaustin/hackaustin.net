@@ -2,20 +2,46 @@
     import Link from "/src/components/Link.svelte"
 </script>
 
-<nav>
-    <h2 class="mono primary-green">HACK<span class="space"></span>AUSTIN!</h2>
-    <div class="button-box">
-        <Link target="https://bank.hackclub.com/donations/start/hackaustin">Donate</Link>
-        <span class="button"><a onclick="window.fathom.trackGoal('BJ9BT1ZU', 0);" href="https://register.hackaustin.net">Register!</a></span>
+<div class="top-bar">
+    <div class="concluded">
+        <p>Hack Austin has concluded. You can register for updates and information from us <a href="https://form.typeform.com/to/TVIkfLtK">here!</a></p>
     </div>
-    
-    
-</nav>
+    <nav>
+        <h2 class="mono primary-green">HACK<span class="space"></span>AUSTIN!</h2>
+        <div class="button-box">
+            <Link target="https://bank.hackclub.com/donations/start/hackaustin">Donate</Link>
+            <span class="button"><a onclick="window.fathom.trackGoal('BJ9BT1ZU', 0);" href="https://register.hackaustin.net">Register!</a></span>
+        </div>
+
+
+    </nav>
+</div>
 
 <style>
-    nav {
+    
+    .top-bar {
         position: fixed;
         display: flex;
+        top: 0;
+        z-index: 1;
+        flex-direction: column;
+    }
+    
+    .concluded {
+        width: 100%;
+        background-color: #ffc501;
+        height: max-content;
+    }
+    
+    .concluded > p {
+       margin: 0;
+       text-align: center;
+       font-weight: 500;
+       padding: 0.5rem;
+}
+    }
+    
+    nav {
         background-color: black;
         height: max-content;
         width: 100vw;
