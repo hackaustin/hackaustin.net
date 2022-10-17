@@ -38,7 +38,6 @@
        text-align: center;
        font-weight: 500;
        padding: 0.5rem;
-}
     }
     
     nav {
