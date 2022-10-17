@@ -55,7 +55,7 @@
     }
     
     .button .disabled {
-        background-color: grey;
+        background: grey;
     }
     
     a {
