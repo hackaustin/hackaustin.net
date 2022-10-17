@@ -4,7 +4,7 @@
 
 <div class="top-bar">
     <div class="concluded">
-        <p>Hack Austin 2022 has concluded. You can register for updates and information from us <a href="https://form.typeform.com/to/TVIkfLtK">here!</a></p>
+        <p>Hack Austin 2022 has concluded. You can sign up for updates and information from us <a href="https://form.typeform.com/to/TVIkfLtK">here!</a></p>
     </div>
     <nav>
         <h2 class="mono primary-green">HACK<span class="space"></span>AUSTIN!</h2>
