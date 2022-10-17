@@ -55,7 +55,7 @@
     }
     
     .button > a {
-        color: white;
+        color: black;
     }
     
     a {
