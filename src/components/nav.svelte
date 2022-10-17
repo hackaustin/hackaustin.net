@@ -54,8 +54,8 @@
         z-index: 1;
     }
     
-    .button .disabled {
-        background: grey;
+    .button > a {
+        color: white;
     }
     
     a {
