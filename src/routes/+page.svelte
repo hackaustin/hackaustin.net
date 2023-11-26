@@ -29,6 +29,10 @@
   <meta name="twitter:title" content="Hack Austin!">
   <meta name="twitter:description" content="Hack Austin is a nonprofit Austin high school/upper middle school hackathon to learn coding, build projects, and make lifelong friendships. The venue is dadaLab, and will be held on October 16th from 10AM-8PM. Register today!">
   <meta name="twitter:image" content="/meta.png">
+
+  <!-- Mastodon -->
+  <link rel="me" href="https://social.dino.icu/@hackaustin"/>
+
 </svelte:head>
 
 <Nav/>
