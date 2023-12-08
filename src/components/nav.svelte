@@ -4,13 +4,13 @@
 
 <div class="top-bar">
     <div class="concluded">
-        <p>Hack Austin 2022 has concluded. You can sign up for updates and information from us <a href="https://form.typeform.com/to/TVIkfLtK">here!</a></p>
+        <p>Hack Austin 2022 has concluded. You can sign up for updates and information from us <a onclick="fathom.trackEvent('interest form');" href="https://form.typeform.com/to/TVIkfLtK?utm_source=hackaustin.net">here!</a></p>
     </div>
     <nav>
         <h2 class="mono primary-green">HACK<span class="space"></span>AUSTIN!</h2>
         <div class="button-box">
             <Link target="https://bank.hackclub.com/donations/start/hackaustin">Donate</Link>
-            <span class="button"><a href="https://register.hackaustin.net" onclick="window.fathom.trackGoal('BJ9BT1ZU', 0);">Register!</span>
+            <span class="button"><a href="https://form.typeform.com/to/TVIkfLtK?utm_source=hackaustin.net" onclick="fathom.trackEvent('interest form');">Register!</span>
         </div>
 
 
