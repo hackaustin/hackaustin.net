@@ -1,0 +1,88 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Card from '../components/Card.astro';
+---
+
+<Layout title="Hack Austin">
+	<main>
+		<section section="hero">
+			<img src="/hero.png">
+			<div class="content">
+				<h1>hack austin</h1>
+				<h2>a two-night <a href="https://hackclub.com/how-to-organize-a-hackathon/#hackathons">:hackathon</a><br> for high-school students</h2>
+				<div aria-label="Event Details" class="details">
+					<div>
+						<h1>Summer</h1>
+						<h2>2024</h2>
+					</div>
+					<div>
+						<h1>Location</h1>
+						<h2>TBD</h2>
+					</div>
+					<form>
+						<input type="email" placeholder="fionah@hackaustin.net"/>
+					</form>
+				</div>
+			</div>
+		</section>
+	</main>
+</Layout>
+
+<style lang="scss">
+	h1, h2 {
+		font-family: "London Underground", system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+		font-weight: 500;
+	}
+
+	section[section=hero] {
+		background: #000;
+
+		h1 {
+			color: var(--green);
+			font-size: 6rem;
+		}
+
+		h2 {
+			font-size: 4rem;
+			line-height: 157.6%;
+		}
+
+		color: white;
+		padding: 6rem 6rem;
+
+		img {
+			position: absolute;
+			right: 4rem;
+			top: 5rem;
+			height: 90vh;
+		}
+
+		.content {
+			max-width: 60vw;
+			display: flex;
+			flex-direction: column;
+			gap: 3rem;
+		}
+
+		.details {
+			display: flex;
+			flex-direction: column;
+			gap: 1rem;
+			font-weight: normal !important;
+
+			h1 {
+				font-size: 2rem;
+				font-weight: normal !important;
+				
+			}
+
+			h2 {
+				font-size: 1rem;
+			}
+		}
+	}
+
+	body,html {
+		background: #000 !important;
+	}
+</style>

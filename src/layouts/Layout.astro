@@ -1,0 +1,91 @@
+---
+interface Props {
+	title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="description" content="Astro description" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{title}</title>
+	</head>
+	<body>
+		<slot />
+		<script is:inline src="https://cdn.jsdelivr.net/gh/ncase/nutshell/nutshell.js"></script>
+	</body>
+</html>
+
+<style is:global>
+
+	@font-face {
+		font-family: "GT America";
+		src:
+			local("GT America"),
+			url("/GT-America-Standard-Regular.woff2") format("woff2");
+	}
+
+	@font-face {
+		font-family: "London Underground";
+		src: url("/LUR.ttf") format("ttf");
+	}
+
+	@font-face {
+		font-family: "London Underground";
+		src: url("/LUM.ttf");
+		font-weight: 500;
+	}
+
+
+	@font-face {
+		font-family: "London Underground";
+		src: url("/LUB.ttf");
+		font-weight: 700;
+	}
+
+	@font-face {
+		font-family: "London Underground";
+		src: url("/LUH.ttf");
+		font-weight: 900;
+	}
+
+	:root {
+		--green: #37F17A;
+	}
+	html {
+		font-family: "GT America", system-ui, sans-serif;
+		background: #13151a;
+	}
+	code {
+		font-family:
+			Menlo,
+			Monaco,
+			Lucida Console,
+			Liberation Mono,
+			DejaVu Sans Mono,
+			Bitstream Vera Sans Mono,
+			Courier New,
+			monospace;
+	}
+
+	.nutshell-bubble {
+		font-size: 1.25rem !important;
+		line-height: inherit !important;
+	}
+
+	.nutshell-bubble-from {
+		font-size: 1rem !important;
+	}
+
+	body, html,h1,h2,h3,h4,h5,h6,p,a {
+		margin: 0 !important;
+    	padding: 0 !important;
+	}
+
+</style>
